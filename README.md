@@ -1,0 +1,1 @@
+LunaClient is my first *legit* Minecraft Wii U client. So far, it contains some basic modules like Fullbright, AutoSprint, FOV, etc. I plan on adding more once I learn more of C++. I made this repo so I can add my plugin to the appstore. https://hb-app.store/wiiu/category/aroma. Source code will NOT be added here. Only new releases.
