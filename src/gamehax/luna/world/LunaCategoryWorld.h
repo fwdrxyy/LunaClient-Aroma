@@ -15,6 +15,6 @@ public:
         this->addModule(std::make_unique<LunaToggleFishingRodDmg>());
         this->addModule(std::make_unique<LunaToggleUntreasureMend>());
         this->addModule(std::make_unique<LunaToggleIncreaseMaxLvlEnch>());
-
+        this->addModule(std::make_unique<LunaToggleWelcomeMessage>());
     }
 };
